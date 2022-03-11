@@ -1,7 +1,7 @@
 # emi_calculator
 
 A Stateful EMI Calculator
-
+![alt text](https://github.com/symaticvisuals/emi-calculator-UI/blob/main/Screenshot%20(66).png?raw=true)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
